@@ -1,0 +1,33 @@
+header{
+    background-color: black;color: white;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+}
+table{
+      border: 2px solid black;
+      border-radius: 4px;
+}
+th{
+    border: 2px solid black;
+    text-align: center;
+    border-color: palevioletred;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+td{
+    border: 2px solid black;
+    text-align: center;
+    border-color:palevioletred;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+mark{
+    border-radius: 5px;
+    background-color: black;color: white;
+    padding: 5px;
+    
+}
